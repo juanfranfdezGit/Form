@@ -1,1 +1,1 @@
-form template HTML + CSS
+form template HTML and CSS
